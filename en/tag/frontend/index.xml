@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Frontend | HugoWind</title><link>https://hugowinds.github.io/en/tag/frontend/</link><description>🚀 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages &amp; Blogs.</description><generator>Hugo 0.152.2 -- hugowind.com</generator><language>en</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hugowinds.github.io/en/tag/frontend/index.xml" rel="self" type="application/rss+xml"/><item><title>Tailwind CSS Practical Guide</title><link>https://hugowinds.github.io/en/tailwind-css-practical-guide/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><author>HugoWind Team</author><guid>https://hugowinds.github.io/en/tailwind-css-practical-guide/</guid><description>Deep dive into Tailwind CSS core concepts and best practices</description><category>Tutorial</category><content:encoded>&lt;h2 id="what-is-tailwind-css"&gt;What is Tailwind CSS?&lt;/h2&gt;
+&lt;p&gt;Tailwind CSS is a utility-first CSS framework that provides a vast collection of atomic classes, allowing you to build custom designs directly in your HTML.&lt;/p&gt;
+&lt;h3 id="core-concepts"&gt;Core Concepts&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Utility-First&lt;/strong&gt; - Use predefined classes to build designs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Design&lt;/strong&gt; - Built-in responsive breakpoints&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dark Mode&lt;/strong&gt; - Simple dark mode support&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Custom Configuration&lt;/strong&gt; - Highly customizable configuration system&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="example-code"&gt;Example Code&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-html" data-lang="html"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;div&lt;/span&gt; &lt;span class="na"&gt;class&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;h2&lt;/span&gt; &lt;span class="na"&gt;class&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;text-2xl font-bold text-gray-900 dark:text-white&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; Hello Tailwind!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;h2&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;div&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="best-practices"&gt;Best Practices&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Use component abstraction for repeated styles&lt;/li&gt;
+&lt;li&gt;Leverage &lt;code&gt;@apply&lt;/code&gt; directive to create custom classes&lt;/li&gt;
+&lt;li&gt;Configure design tokens for consistency&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>

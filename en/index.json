@@ -1,0 +1,29 @@
+[
+{
+  "title": "Hugo Template System Explained",
+  "url": "/en/hugo-template-system-explained/",
+  "content": "Hugo Template Basics Hugo uses Go\u0026rsquo;s text/template and html/template libraries as its template engine.\nBasic Syntax {{ .Title }} {{ .Content }} {{ range .Pages }} \u0026lt;h2\u0026gt;{{ .Title }}\u0026lt;/h2\u0026gt; {{ end }} Template Types baseof.html - Base template list.html - List page template single.html - Single page template partials/ - Reusable components Conditionals {{ if .Params.featured }} \u0026lt;span class=\u0026#34;badge\u0026#34;\u0026gt;Featured\u0026lt;/span\u0026gt; {{ end }} Loops {{ range .Site.RegularPages }} \u0026lt;article\u0026gt;{{ .Title }}\u0026lt;/article\u0026gt; {{ end }} ",
+  "description": "Master Hugo's Go template syntax and best practices",
+  "date": "2024-01-25",
+  "tags": ["Hugo","Go Templates","Static Sites"],
+  "categories": ["Technology"]
+},
+{
+  "title": "Tailwind CSS Practical Guide",
+  "url": "/en/tailwind-css-practical-guide/",
+  "content": "What is Tailwind CSS? Tailwind CSS is a utility-first CSS framework that provides a vast collection of atomic classes, allowing you to build custom designs directly in your HTML.\nCore Concepts Utility-First - Use predefined classes to build designs Responsive Design - Built-in responsive breakpoints Dark Mode - Simple dark mode support Custom Configuration - Highly customizable configuration system Example Code \u0026lt;div class=\u0026#34;bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6\u0026#34;\u0026gt; \u0026lt;h2 class=\u0026#34;text-2xl font-bold text-gray-900 dark:text-white\u0026#34;\u0026gt; Hello Tailwind! \u0026lt;/h2\u0026gt; \u0026lt;/div\u0026gt; Best Practices Use component abstraction for repeated styles Leverage @apply directive to create custom classes Configure design tokens for consistency ",
+  "description": "Deep dive into Tailwind CSS core concepts and best practices",
+  "date": "2024-01-20",
+  "tags": ["Tailwind CSS","CSS","Frontend"],
+  "categories": ["Tutorial"]
+},
+{
+  "title": "Getting Started with HugoWind",
+  "url": "/en/getting-started-with-hugowind/",
+  "content": "Introduction Welcome to HugoWind! This guide will help you get started with your new Hugo website.\nPrerequisites Before you begin, make sure you have the following installed:\nHugo Extended (v0.120.0 or later) Node.js (v18 or later) pnpm (v10 or later) Quick Start Clone the repository Install dependencies with pnpm install Start the development server with pnpm dev Customization HugoWind is highly customizable. You can modify:\nColors and typography in tailwind.config.js Site configuration in config/_default/ Content in the content/ directory Next Steps Explore the documentation Check out the example posts Join our community Happy building! 🚀\n",
+  "description": "Learn how to set up and customize your HugoWind website",
+  "date": "2024-01-15",
+  "tags": ["Hugo","Getting Started","Web Development"],
+  "categories": ["Tutorial"]
+}
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>CSS | HugoWind</title><link>https://hugowinds.github.io/zh-tw/tag/css/</link><description>🚀 適用於初創公司、小型企業、SaaS 網站、專業作品集、行銷網站、落地頁和部落格。</description><generator>Hugo 0.152.2 -- hugowind.com</generator><language>zh-tw</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hugowinds.github.io/zh-tw/tag/css/index.xml" rel="self" type="application/rss+xml"/><item><title>Tailwind CSS 實用指南</title><link>https://hugowinds.github.io/zh-tw/tailwind-css-%E5%AF%A6%E7%94%A8%E6%8C%87%E5%8D%97/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><author>HugoWind 團隊</author><guid>https://hugowinds.github.io/zh-tw/tailwind-css-%E5%AF%A6%E7%94%A8%E6%8C%87%E5%8D%97/</guid><description>深入瞭解 Tailwind CSS 的核心概念和最佳實踐</description><category>教學</category><content:encoded>&lt;h2 id="什麼是-tailwind-css"&gt;什麼是 Tailwind CSS？&lt;/h2&gt;
+&lt;p&gt;Tailwind CSS 是一個功能類優先的 CSS 框架，它提供了大量的原子類，讓您可以直接在 HTML 中建構自訂設計。&lt;/p&gt;
+&lt;h3 id="核心概念"&gt;核心概念&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;功能類優先&lt;/strong&gt; - 使用預定義的類別來建構設計&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;響應式設計&lt;/strong&gt; - 內建的響應式斷點&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;深色模式&lt;/strong&gt; - 簡單的深色模式支援&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自訂設定&lt;/strong&gt; - 高度可自訂的設定系統&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="範例程式碼"&gt;範例程式碼&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-html" data-lang="html"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;div&lt;/span&gt; &lt;span class="na"&gt;class&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;h2&lt;/span&gt; &lt;span class="na"&gt;class&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;text-2xl font-bold text-gray-900 dark:text-white&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; Hello Tailwind!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;h2&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;div&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="最佳實踐"&gt;最佳實踐&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;使用元件抽象重複的樣式&lt;/li&gt;
+&lt;li&gt;利用 &lt;code&gt;@apply&lt;/code&gt; 指令建立自訂類別&lt;/li&gt;
+&lt;li&gt;設定設計令牌以保持一致性&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
